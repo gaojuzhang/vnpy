@@ -13,7 +13,7 @@
     <img src ="https://img.shields.io/github/workflow/status/vnpy/vnpy/Python%20application/master"/>
     <img src ="https://img.shields.io/github/license/vnpy/vnpy.svg?color=orange"/>
 </p>
-
+Gaoju Fork
 VeighNa是一套基于Python的开源量化交易系统开发框架，在开源社区持续不断的贡献下一步步成长为多功能量化交易平台，自发布以来已经积累了众多来自金融机构或相关领域的用户，包括私募基金、证券公司、期货公司等。
 
 &#x1F393;&#x1F393;&#x1F393; **2022年VeighNa线下小班特训营年终场报名进行中！场次主题包括《VeighNa交易接口扩展》和《VeighNa深入CTA实战》，两天10小时的课程内容结合后续3个月的助教辅导，帮助学员在量化实践中深入掌握相关的知识体系。报名方法请扫描下方二维码关注后，回复关键词【小班】即可：**
